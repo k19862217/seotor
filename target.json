@@ -2,7 +2,7 @@
 	"targets": [
 		{
 			"url": "https://www.mankawu.com/manka",
-			"xpath": "//img[contains(@src, 'a8.net')]",
+			"xpath": "//a[contains(@href, 'a8.net')]",
 			"proportion": 0.15
 		}
 	], 
