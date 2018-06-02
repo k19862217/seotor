@@ -1,0 +1,27 @@
+{
+	"targets": [
+		{
+			"url": "https://www.mankawu.com/manka",
+			"xpath": "//img[contains(@src, 'a8.net')]",
+			"proportion": 0.15
+		}
+	], 
+	"referers": [
+		{
+			"url": "https://www.google.com",
+			"weight": 90
+		},
+                {
+                        "url": "https://www.facebook.com",
+                        "weight": 120
+                },
+                {
+                        "url": "https://www.baidu.com",
+                        "weight": 20
+                },
+                {
+                        "url": "https://search.yahoo.co.jp",
+                        "weight": 50
+                }
+	]
+}
