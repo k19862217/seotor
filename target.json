@@ -4,7 +4,12 @@
 			"url": "https://www.mankawu.com/manka",
 			"xpath": "//a[contains(@href, 'a8.net')]",
 			"proportion": 0.15
-		}
+		},
+                {
+                        "url": "https://www.woaituishu.com/",
+                        "xpath": "//img[contains(@src, 'chitika.net')]",
+                        "proportion": 0.15
+                }
 	], 
 	"referers": [
 		{
