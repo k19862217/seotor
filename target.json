@@ -4,57 +4,7 @@
 			"url": "https://www.mankawu.com/manka",
 			"xpath": "//a[contains(@href, 'a8.net')]",
 			"proportion": 0.15
-		},
-                {
-                        "url": "https://woaituishu.com/search/?q=%E4%B8%80%E6%8B%B3%E8%B6%85%E4%BA%BA%E6%BC%AB%E7%94%BB",
-                        "xpath": "//img[contains(@src, 'chitika.net')]",
-                        "proportion": 0.15
-                },
-                {
-                        "url": "https://woaituishu.com/search/?q=%E4%B8%83%E9%BE%99%E7%8F%A0",
-                        "xpath": "//img[contains(@src, 'chitika.net')]",
-                        "proportion": 0.15
-                },
-                {
-                        "url": "https://woaituishu.com/search/?q=%E6%88%91", 
-                        "xpath": "//img[contains(@src, 'chitika.net')]",
-                        "proportion": 0.15
-                },
-                {
-                        "url": "https://woaituishu.com/search/?q=%e6%b5%b7%e8%b4%bc%e7%8e%8b",
-                        "xpath": "//img[contains(@src, 'chitika.net')]",
-                        "proportion": 0.15
-                },
-                {
-                        "url": "https://woaituishu.com/search/?q=%e6%81%90%e6%80%96",
-                        "xpath": "//img[contains(@src, 'chitika.net')]",
-                        "proportion": 0.15
-                },
-                {
-                        "url": "https://woaituishu.com/search/?q=%e5%b0%8f%e8%af%b4",
-                        "xpath": "//img[contains(@src, 'chitika.net')]",
-                        "proportion": 0.15
-                },
-                {
-                        "url": "https://woaituishu.com/search/?q=%e6%97%a0%e5%b0%bd",
-                        "xpath": "//img[contains(@src, 'chitika.net')]",
-                        "proportion": 0.15
-                },
-                {
-                        "url": "https://woaituishu.com/search/?q=%e5%94%90%e5%ae%b6",
-                        "xpath": "//img[contains(@src, 'chitika.net')]",
-                        "proportion": 0.15
-                },
-                {
-                        "url": "https://woaituishu.com/search/?q=%e6%bc%ab%e7%94%bb",
-                        "xpath": "//img[contains(@src, 'chitika.net')]",
-                        "proportion": 0.15
-                },
-                {
-                        "url": "https://woaituishu.com/search/?q=%e4%b9%b1%e9%a9%ac",
-                        "xpath": "//img[contains(@src, 'chitika.net')]",
-                        "proportion": 0.15
-                }
+		}
 	], 
 	"referers": [
 		{
@@ -73,5 +23,12 @@
                         "url": "https://search.yahoo.co.jp",
                         "weight": 50
                 }
+	],
+	"search": [
+		{
+			"key_words": ["漫画推送","漫画推送","kindle推送","mobi漫画","kindle漫画","mobi推送","漫画小说mobi","漫画小说推送","漫画kindle推送","kindle漫画","海贼王推送kindle","onepiecekindle推送","犬夜叉kindle推送","火影忍者推送kindle","七龙珠kindle推送","死神kindle推送","进击的巨人kindle推送","偷窥孔推送kindle","名侦探柯南推送kindle","灌篮高手推送kindle","东京食尸鬼推送kindle","机器猫推送kindle","成长日记推送kindle","克亚树推送kindle","冈田和人推送kindle","思春期诱惑推送kindle","北崎拓推送kindle","全职猎人推送kindle","一拳超人推送kindle","火凤燎原推送kindle","桂正和推送kindle","寄生兽推送kindle","幽游白书推送kindle","伊藤润二推送kindle","3只眼推送kindle","圣斗士星矢推送kindle","城市猎人推送kindle","黑执事推送kindle","棋魂推送kindle","NANA推送kindle","乱马推送kindle","神兵玄奇推送kindle","笑傲江湖推送kindle","无限之住人推送kindle","射雕英雄传推送kindle"],
+			"target_word": "我爱推书"
+		}
 	]
+
 }
