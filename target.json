@@ -1,11 +1,6 @@
 {
 	"targets": [
-		{
-			"url": "https://www.mankawu.com/manka",
-			"xpath": "//a[contains(@href, 'a8.net')]",
-			"proportion": 0.15
-		}
-	], 
+	],
 	"referers": [
 		{
 			"url": "https://www.google.com",
