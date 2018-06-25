@@ -2,7 +2,7 @@
   "targets": [
     {
       "url": "https://www.mankawu.com/manka",
-      "xpath": "//a[contains(@href, 'temp')]",
+      "xpath": "//a[contains(@href, 'weixin.admin25')]",
       "proportion": 0.15
     }
   ],
