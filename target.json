@@ -1,7 +1,7 @@
 {
   "targets": [
     {
-      "url": "https://www.mankawu.com/manka",
+      "url": "https://www.woaituishu.com/",
       "xpath": "//a[contains(@href, 'weixin.admin25')]",
       "proportion": 1.0
     }
