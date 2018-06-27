@@ -22,6 +22,10 @@
     {
       "url": "https://search.yahoo.co.jp",
       "weight": 50
+    },
+    {
+      "url": "https://tieba.baidu.com",
+      "weight": 50
     }
   ],
   "search": [
