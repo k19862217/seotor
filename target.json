@@ -1,7 +1,7 @@
 {
   "targets": [
     {
-      "url": "https://www.woaituishu.com/",
+      "url": "https://woaituishu.com/",
       "xpath": "//a[contains(@href, \"weixin.admin25\")]",
       "proportion": 1.0
     }
